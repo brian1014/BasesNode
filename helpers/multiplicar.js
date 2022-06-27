@@ -3,8 +3,6 @@ const colors = require('colors')
 
 const crearArchivo = async (base = 5, listar = false, hasta = 10) => {
   try {
-    
-
     let salida = ''
     let consola = ''
 
